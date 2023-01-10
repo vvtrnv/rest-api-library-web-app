@@ -1,0 +1,17 @@
+.login-form {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.login__header {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.login-form div {
+    margin: 10px 0;
+}
+
+.login-form input {
+    margin-left: 20px;
+}

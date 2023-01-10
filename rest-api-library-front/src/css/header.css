@@ -1,0 +1,23 @@
+.header__title {
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: 800;
+}
+
+.header__links {
+    margin: 20px 0px;
+}
+
+.header__links a{
+    text-decoration: none;
+    color: #274aee;
+}
+.header__links a:not(:first-child) {
+    padding-left: 40px;
+}
+
+.header__links a:hover  {
+    color: #0a239a;
+    transition: 0.5s;
+
+}

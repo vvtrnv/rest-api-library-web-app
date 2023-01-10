@@ -1,0 +1,44 @@
+.card {
+    border: 1px solid #274aee;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.card__controls {
+    margin-top: 25px;
+}
+.button {
+    width: 200px;
+    padding: 10px 0;
+    border: 0;
+    background-color: #274aee;
+    color: #fff;
+    border-radius: 4px;
+}
+.button:hover {
+    cursor: pointer;
+    background-color: #1533c5;
+    transition: 0.5s;
+}
+.button:not(:first-child) {
+    margin-left: 30px;
+}
+
+.button_red {
+    background-color: #d71f2d;
+}
+.button_red:hover {
+    background-color: #9a0e19;
+    transition: 0.5s;
+}
+.button_green {
+    background-color: #079d0a;
+}
+.button_green:hover {
+    background-color: #055708;
+}
+
+.button_action {
+    width: 150px;
+}

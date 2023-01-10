@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/library
+    username: rpbd_labs
+    password: 1234
+  jpa:
+    hibernate:
+      use-new-id-generator-mappings: false
