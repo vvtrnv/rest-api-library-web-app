@@ -7,9 +7,9 @@
 </ul>
 
 <h2>Requirements</h2>
-
+<p>Soon</p>
 <h2>How to launch</h2>
-
+<p>Soon</p>
 <h2>Example of work</h2>
-
+<p>Soon</p>
     
